@@ -1,0 +1,26 @@
+/*======(Colors)======*/
+:root {
+    --primary-color: #5865f2;
+    --brand-gradient: linear-gradient(90deg,#8ea1e1,#7289da);
+    --greyple: #99aab5;
+    --dark-not-black: #2c2f33;
+    --text-link: #00b0f4;
+    --off-white: #f6f6f6;
+    --not-quite-black: #23272a;
+    --white: #fff;
+    --black: #000;
+}
+
+/*======(Lines height)=====*/
+:root {
+    --paragraph-height: 1.6;
+}
+
+/*======(Padding)======*/
+:root {
+    --section-padding: 100px 0;
+    --section-padding-tablet: 80px ;
+    --section-padding-mobile: 56px ; 
+}
+
+/*======(Margin)======*/
